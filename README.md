@@ -4,7 +4,12 @@
 
 ## Getting Started
 
-If you're new to Pytorch I recommend starting with creating an environment and then tensor operations. 
+Installation: 
+`git clone https://github.com/efar301/learn-pytorch.git`
+
+All notebooks are also available on google colab if you dont want to clone the repo.
+
+If you're new to Pytorch I recommend starting [here](./creating-environments/).
 
 ## Table of Contents
 
@@ -19,7 +24,8 @@ If you're new to Pytorch I recommend starting with creating an environment and t
 - [GPU and Device Management](./models/getting-started/non_cpu_devices.ipynb)
 <!-- - [Advanced Topics: Custom Datasets, Transforms, Schedulers](./advanced_topics.ipynb) -->
 
+Follow the table of contents for a suggested learning guide.
 
 ## Contributions
 
-Feel free to make a pull request if you would like to change anything
+Feel free to make a pull request if you would like to change anything.
