@@ -18,11 +18,11 @@ If you're new to Pytorch I recommend starting [here](./creating-environments/).
 - [Data Preparation: Dataset and DataLoader](./data-handling/data_preparation.ipynb)
 - [Model Creation](./models/getting-started/basic_model_creation.ipynb)
 - [Training Loops](./models/getting-started/training_loop.ipynb)
-<!-- - [Evaluation and Metrics](./evaluation_metrics.ipynb) -->
+- [Evaluation and Metrics](./evaluation/evaluation_metrics.ipynb)
 <!-- - [Saving and Loading Models](./saving_loading_models.ipynb) -->
 <!-- - [Inference and Prediction](./inference_prediction.ipynb) -->
 - [GPU and Device Management](./models/getting-started/non_cpu_devices.ipynb)
-<!-- - [Advanced Topics: Custom Datasets, Transforms, Schedulers](./advanced_topics.ipynb) -->
+<!-- - [Advanced Topics: Transforms, Schedulers](./advanced_topics.ipynb) -->
 
 Follow the table of contents for a suggested learning guide.
 
