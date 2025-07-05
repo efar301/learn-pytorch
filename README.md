@@ -1,6 +1,9 @@
 # learn-pytorch
 
 ## This repository is meant to act as a gateway to learning Pytorch.
+I tried to simplify the basics to a degree that is somewhat understandable to someone completely new to pytorch. As this repository matures, I plan on adding more advanced topics. 
+
+I would recommend having a basic working knowledge of the principles of deep learning before digging into this repository.
 
 ## Getting Started
 
@@ -9,7 +12,9 @@ Installation:
 
 All notebooks are also available on google colab if you dont want to clone the repo.
 
-If you're new to Pytorch I recommend starting [here](./creating-environments/).
+If you're new to Pytorch I recommend starting [here](./tensors/tensor_operations.ipynb).
+
+If you dont have a pytorch environment yet, you can make one [here](./creating-environments/).
 
 ## Table of Contents
 
