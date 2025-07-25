@@ -1,2 +1,10 @@
 *.pycache
+*.gz
+*.pyc
+*.pth
 /vscode
+__pycache__
+
+
+/test-models/mnist_nn/data
+/test-models/cnn/data
