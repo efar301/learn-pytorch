@@ -1,7 +1,7 @@
 # learn-pytorch
 
 ## This repository is meant to act as a gateway to learning Pytorch.
-I tried to simplify the basics to a degree that is somewhat understandable to someone completely new to pytorch. As this repository matures, I plan on adding more advanced topics. 
+I tried to simplify the basics to a degree that is understandable to someone completely new to pytorch. As this repository matures, I plan on adding more advanced topics. 
 
 I would recommend having a basic working knowledge of the principles of deep learning before digging into this repository.
 
@@ -30,6 +30,10 @@ If you dont have a pytorch environment yet, you can make one [here](./creating-e
 <!-- - [Advanced Topics: Transforms, Schedulers](./advanced_topics.ipynb) -->
 
 Follow the table of contents for a suggested learning guide.
+
+## Example Models
+
+There are some example models in [test-models](./test-models/) that can help you understand best practices for formatting your models in projects. More models will be added later.
 
 ## Contributions
 
