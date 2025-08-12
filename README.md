@@ -3,7 +3,7 @@
 ## This repository is meant to act as a gateway to learning Pytorch.
 I tried to simplify the basics to a degree that is understandable to someone completely new to pytorch. As this repository matures, I plan on adding more advanced topics. 
 
-I would recommend having a basic working knowledge of the principles of deep learning before digging into this repository.
+I would recommend having a basic working knowledge of the principles of deep learning before digging into this repository. An extremely brief summary can be found [here](./deep-learning/intro_to_deep_learning.ipynb).
 
 ## Getting Started
 
@@ -30,6 +30,12 @@ If you dont have a pytorch environment yet, you can make one [here](./creating-e
 <!-- - [Advanced Topics: Transforms, Schedulers](./advanced_topics.ipynb) -->
 
 Follow the table of contents for a suggested learning guide.
+
+## Topics in Deep Learning
+
+This section is under construction and more will be added.
+
+- [Image Processing](./cnns/)
 
 ## Example Models
 
